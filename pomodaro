@@ -1,0 +1,25 @@
+import time
+class Pomodaro:
+    def __init__(self):
+        set_time=int(input("set time in seconds: ",))
+        self.time = set_time
+        self.running=False
+    def start(self):
+        self.running = True
+        while self.running:
+            minutes,seconds=divmod(self.time,60)
+            print(f"{minutes:02d}:{seconds:02d}",end='\r')
+            time.sleep(1)
+            self.time-=1
+            if self.time == 0:
+                print('Times is up','time for break')
+                self.time=1500
+    def stop(self):
+        self.running=False
+if __name__=='__main__':
+    timer = Pomodaro()
+    print("Press ctr+c to stop the timer")
+    try:
+        timer.start()
+    except KeyboardInterrupt:
+        timer.stop()
