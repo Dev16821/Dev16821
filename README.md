@@ -41,9 +41,6 @@
 
 #### **Other Tools & Technologies**
 - MS-Excel  
-- MS-PowerPoint  
-- Manual Testing  
-- Software Testing  
 
 #### **Python Modules Used in Projects**
 - `pyttsx3` (text-to-speech)  
