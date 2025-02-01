@@ -1,61 +1,99 @@
-### 👋 Hi, I’m V Deviprasad Reddy!  
-- 🎓 **AI/ML Student** at Apollo University, India | Passionate about building intelligent systems.
+# V Deviprasad Reddy (Dev16821)
 
-- 🔭 **Working on**: NLP projects, computer vision, and open-source contributions.
-  
-- 🌱 **Learning**: Advanced Python, TensorFlow, and cloud platforms (AWS/GCP).
+**Location:** Chittoor, Andhra Pradesh, India  
+**Pronouns:** he/him  
+**Current Status:** AI/ML Student at Apollo University
 
-- 💡 **Fun Fact**: Built a personal voice assistant named it as Iron man Jarvis.
+---
 
-- 📫 **Reach me**: [Email](vicky168218@gmail.com) | [LinkedIn](https://in.linkedin.com/in/v-deviprasad-reddy-b0b6a32b2) |
+## Professional Summary
+👋 Hello! I am V Deviprasad Reddy, an aspiring AI/ML specialist dedicated to developing innovative solutions using artificial intelligence and machine learning. With a strong foundation in programming and a passion for technology, I aim to contribute to impactful projects that drive advancements in the tech industry.
 
+---
 
-### 🛠️ Tech Stack 
+## Current Focus
+- **Artificial Intelligence & Machine Learning**: Exploring advanced algorithms and techniques.
+- **Natural Language Processing (NLP)**: Developing applications that understand and process human language.
+- **Computer Vision**: Working on projects that involve image and video analysis.
 
-#### **Programming Languages**
-- Python  
-- R Programming  
+---
 
-#### **Frameworks & Libraries**
-- TensorFlow  
-- PyTorch (implied through AI/ML skills)  
-- Scikit-learn (implied through AI/ML skills)
-- Numpy
-- Pandas 🐼
-- Matplotlib
-- keras
-- scikit learn 
+## Technical Skills
 
-#### **AI/ML Tools**
-- Machine Learning  
-- Artificial Intelligence  
-- Neural Networks  
-- Deep Learning  
+### Programming Languages
+- **Python**
+- **R**
+
+### Frameworks & Libraries
+- **TensorFlow**
+- **PyTorch**
+- **Scikit-learn**
+- **NumPy**
+- **Pandas**
+- **Matplotlib**
+- **Keras**
+
+### AI/ML Tools
+- Machine Learning
+- Artificial Intelligence
+- Neural Networks
+- Deep Learning
 - Data Science
 
-#### **Database Management**
-- MySQL  
+### Database Management
+- **MySQL**
 
-#### **GUI Development**
-- Tkinter  
+### GUI Development
+- **Tkinter**
 
-#### **Other Tools & Technologies**
-- MS-Excel  
+### Other Tools & Technologies
+- **MS Excel**
 
-#### **Python Modules Used in Projects**
-- `pyttsx3` (text-to-speech)  
-- `speech_recognition` (voice commands)  
-- `cv2` (OpenCV for image processing)  
-- `requests` (HTTP requests)
-- `wikipedia` (Wikipedia API)  
-- `subprocess` (system commands)  
-- `webbrowser` (web browsing)  
-- `pywhatkit` (automation)  
-- `smtplib` (email sending)  
-- `pylokes` (location-based services)  
-- `pyautogui` (GUI automation)  
-- `instaloader` (Instagram scraping)  
-- `geopy` (geolocation)  
+### Python Modules Used in Projects
+- `pyttsx3` (Text-to-Speech)
+- `speech_recognition` (Voice Commands)
+- `cv2` (OpenCV for Image Processing)
+- `requests` (HTTP Requests)
+- `wikipedia` (Wikipedia API)
+- `subprocess` (System Commands)
+- `webbrowser` (Web Browsing)
+- `pywhatkit` (Automation)
+- `smtplib` (Email Sending)
+- `pylokes` (Location Services)
+- `pyautogui` (GUI Automation)
+- `instaloader` (Instagram Scraping)
+- `geopy` (Geolocation)
 
-#### **3D Modeling**
-- 3D Modeling (for car showroom project)  
+---
+
+## Notable Projects
+
+### 1. **Number Guessing Game**
+- **Description**: An interactive game built with Python that incorporates both text and voice commands to enhance user engagement.
+- **Technologies Used**: Python, `pyttsx3`, `speech_recognition`.
+
+### 2. **Jarvis: Personal Voice Assistant**
+- **Description**: A sophisticated voice assistant named "Iron Man Jarvis" that utilizes voice recognition and AI to perform various tasks.
+- **Technologies Used**: Python, `speech_recognition`, `pyttsx3`, `cv2`.
+- **[Link to Repository](#)**
+
+### 3. **Car Showroom 3D Model**
+- **Description**: Developed a 3D model for a car showroom project, demonstrating skills in 3D modeling and design.
+- **Technologies Used**: [Specify tools used for 3D modeling].
+
+---
+
+## Education
+- **Bachelor of Technology in Computer Science**  
+  Apollo University, Expected Graduation: [2028]
+
+---
+
+## Contact Information
+- **Email**: [vicky168218@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/v-deviprasad-reddy-b0b6a32b2/](#)
+
+---
+
+## Fun Fact
+In my free time, I enjoy experimenting with new technologies and building creative projects that challenge my skills and expand my knowledge.
