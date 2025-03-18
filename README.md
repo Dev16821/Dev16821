@@ -69,13 +69,13 @@
 
 ## Notable Projects
 
-### 1. **Number Guessing Game**
+# **1. Number Guessing Game**
 - **Description**: An interactive game built with Python that incorporates both text and voice commands to enhance user engagement.
 - **Technologies Used**: Python, `pyttsx3`, `speech_recognition`.
+---
+# **2. CHAI**
 
-# **CHAI**
-
-**2. CHAI** stands for *Chat with AI*—a cutting-edge AI platform designed to offer both interactive and passive modes of communication. This platform aims to provide users with intelligent conversations, system monitoring, and task execution capabilities.
+** CHAI** stands for *Chat with AI*—a cutting-edge AI platform designed to offer both interactive and passive modes of communication. This platform aims to provide users with intelligent conversations, system monitoring, and task execution capabilities.
 
 ## **Interactive Mode**
 
