@@ -187,7 +187,7 @@ By seamlessly combining visualization with the power of AI, our platform transfo
 
 ## Contact Information
 - **Email**: [vicky168218@gmail.com]
-- **LinkedIn**: [https://www.linkedin.com/in/v-deviprasad-reddy-b0b6a32b2/](#)
+- **LinkedIn**: [https://www.linkedin.com/in/v-deviprasad-reddy-b0b6a32b2/]
 
 ---
 
