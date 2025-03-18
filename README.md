@@ -23,6 +23,7 @@
 ### Programming Languages
 - **Python**
 - **R**
+- **Front-end Development**
 
 ### Frameworks & Libraries
 - **TensorFlow**
