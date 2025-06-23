@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dev</h1>
-<h3 align="center">AI/ML Student | Full Stack Developer | Voice Assistant Builder | Tech Explorer</h3>
+<h3 align="center">AI/ML Student | Full Stack AI/MLDeveloper | Robotics Enthusiasts | Tech Builder</h3>
 
 ---
 
