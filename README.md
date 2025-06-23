@@ -1,148 +1,70 @@
-# V Deviprasad Reddy (Dev16821)
-
-
-
-📍 **Location:** Chittoor, Andhra Pradesh, India  
-🏷️ **Pronouns:** He/Him  
-📚 **Current Status:** AI/ML Student at Apollo University  
+<h1 align="center">Hi 👋, I'm Dev</h1>
+<h3 align="center">AI/ML Student | Full Stack Developer | Voice Assistant Builder | Tech Explorer</h3>
 
 ---
 
-## 🚀 Professional Summary
-👋 Hello! I am **V Deviprasad Reddy**, an aspiring **AI/ML specialist** dedicated to developing innovative solutions using artificial intelligence and machine learning. With a strong foundation in programming and a passion for technology, I aim to contribute to impactful projects that drive advancements in the tech industry.
+- 🎓 Pursuing **B.Tech in Artificial Intelligence & Machine Learning**
+- 🔭 Currently working on `VORA` – an advanced AI-based voice assistant
+- 🌱 Learning **Full Stack AI/ML**, **Data Science**, and **Django**
+- 💡 Passionate about building intelligent systems, open source, and turning anime logic into algorithms
+- 💬 Ask me about **Python, Git, Django, Data Structures & Algorithms**
+- ⚡ Fun fact: I explain algorithms through anime storytelling 🧠🎴
 
 ---
 
-## 🎯 Current Focus
-- **Artificial Intelligence & Machine Learning**: Exploring advanced algorithms and techniques.
-- **Natural Language Processing (NLP)**: Developing applications that understand and process human language.
-- **Computer Vision**: Working on projects that involve image and video analysis.
+### 🚀 Projects I'm Building:
+
+- 🧠 [CHAI - Voice Assistant](https://github.com/Dev16821/chai): AI-based assistant with YouTube control, task reminders, speech input/output, and more.
+- 🌐 P Platform: A full-stack collaborative platform for project sharing and mentorship.
+- 🐍 Python 20-Day Challenge: A complete hands-on journey into Python, from basics to OOP.
 
 ---
 
-## 💻 Technical Skills
+### 🛠️ Tools & Technologies:
 
-### **Programming Languages**
-- Python
-- R
-- Front-end Development
+<p align="left">
 
-### **Frameworks & Libraries**
-- TensorFlow
-- PyTorch
-- Scikit-learn
-- NumPy
-- Pandas
-- Matplotlib
-- Keras
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  
+  <!-- Git and GitHub -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  
+  <!-- Frameworks & Web -->
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 
-### **AI/ML Tools**
-- Machine Learning
-- Artificial Intelligence
-- Neural Networks
-- Deep Learning
-- Data Science
+  <!-- Data Science -->
+  <img src="https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge&logo=googleanalytics&logoColor=white" />
 
-### **Database Management**
-- MySQL
+  <!-- DSA -->
+  <img src="https://img.shields.io/badge/DSA-0A192F?style=for-the-badge&logo=code&logoColor=white" />
 
-### **GUI Development**
-- Tkinter
+  <!-- Full Stack AI/ML -->
+  <img src="https://img.shields.io/badge/Full%20Stack%20AI/ML-1E88E5?style=for-the-badge&logo=cloudsmith&logoColor=white" />
 
-### **Other Tools & Technologies**
-- MS Excel
-
-### **Python Modules Used in Projects**
-- `pyttsx3` (Text-to-Speech)
-- `speech_recognition` (Voice Commands)
-- `cv2` (OpenCV for Image Processing)
-- `requests` (HTTP Requests)
-- `wikipedia` (Wikipedia API)
-- `subprocess` (System Commands)
-- `webbrowser` (Web Browsing)
-- `pywhatkit` (Automation)
-- `smtplib` (Email Sending)
-- `pylokes` (Location Services)
-- `pyautogui` (GUI Automation)
-- `instaloader` (Instagram Scraping)
-- `geopy` (Geolocation)
+</p>
 
 ---
 
-## 🏆 Notable Projects
+### 📊 GitHub Stats
 
-### **1️⃣ Number Guessing Game**
-🎯 **Description:** An interactive game built with Python that incorporates both text and voice commands to enhance user engagement.  
-🛠 **Technologies Used:** Python, `pyttsx3`, `speech_recognition`
-
----
-
-### **2️⃣ CHAI (Chat with AI)**
-🔹 **CHAI** stands for **Chat with AI**—a cutting-edge AI platform designed to offer both **interactive and passive modes** of communication.
-
-#### 🟢 **Interactive Mode**
-- **3D Animated Character:** A dynamic AI assistant appears on the screen to interact with users.
-- **Text/Voice Input:** Users communicate via text or voice commands.
-- **Output Display:** AI-generated responses appear in a conversational interface.
-- **History Log:** Keeps track of previous conversations.
-
-**Example:**
-```
-User: Can you show me the weather forecast for today?
-CHAI: Sure! The forecast for today is mostly sunny with a high of 72°F and a low of 54°F.
-```
-
-#### 🔵 **Passive Mode**
-- **Continuous Interaction:** AI runs in the background, monitoring system performance.
-- **System Monitoring:** Uses deep learning algorithms to analyze data.
-- **Task Management:** Assists with personal and system tasks.
-
-**Example:**
-```
-User: Can you see this file?
-CHAI: Yes, I see the file "Annual_Report.pdf." What would you like me to do with it?
-User: Can you open it for me?
-CHAI: Opening the file now...
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev16821&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev16821&layout=compact&theme=radical" width="45%" />
+</p>
 
 ---
 
-### **3️⃣ Vehicle Showroom**
-🚘 **An interactive platform where users explore vehicle details in a virtual showroom.**
-- Vehicle **type, mileage, specifications, and pricing**.
-- **3D vehicle exploration** for an immersive experience.
-- **AI-powered chatbot** for instant recommendations.
+### 📫 Connect with Me:
+
+- 📧 Email: dev.yourname@example.com *(replace this with your actual email if you want)*
+- 🔗 LinkedIn: [linkedin.com/in/dev16821](https://www.linkedin.com/in/dev16821)
 
 ---
 
-### **4️⃣ P Platform (Project Platform)**
-🛠 **A collaborative space where users assist each other in building projects.**
-- **Community Collaboration:** Share skills and resources.
-- **Resource Sharing:** Access tools, templates, and guides.
-- **Skill-Based Contributions:** Match with users who have required expertise.
-
----
-
-### **5️⃣ Code Visualizer**
-🚀 **A revolutionary AI-powered platform for understanding code.**
-- **Break Down Complex Code** into simple, manageable steps.
-- **Visualize Code Execution** in real time.
-- **AI-Driven Insights** for performance improvement.
-- **Sandbox Environment** for experimenting with live code.
-
----
-
-## 🎓 Education
-🎓 **Bachelor of Technology in Computer Science**  
-📍 **Apollo University** (Expected Graduation: 2028)
-
----
-
-## 📞 Contact Information
-📧 Email: [vicky168218@gmail.com](mailto:vicky168218@gmail.com)  
-🔗 LinkedIn: [V Deviprasad Reddy](https://www.linkedin.com/in/v-deviprasad-reddy-b0b6a32b2/)  
-
----
-
-## 🎉 Fun Fact
-Beyond my technical and professional pursuits, I actively engage in extracurricular activities that cultivate resilience, discipline and creativity. I am deeply passionate about calisthenics, a pursuit that has instilled in me the values of perseverance, consistency and self mastery. My structured training regimen reflects my ability to set ambitious goals, maintain unwavering commitment and push beyond limitations. Qualities that seamlessly translate into my professional endeavours
+<p align="center">
+  💡 *“I don’t just write code, I design logic — one intelligent system at a time.”*
+</p>
