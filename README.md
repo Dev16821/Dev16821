@@ -60,34 +60,12 @@
 
 ---
 
-## 🧠 Full Stack Artificial Intelligence & Machine Learning Roadmap
-
-| **Category**                          | **Sub-Category**                                                                 |
-|--------------------------------------|----------------------------------------------------------------------------------|
-| 📘 **1. Mathematics**                | 1.1 Linear Algebra <br> 1.2 Calculus <br> 1.3 Probability & Statistics <br> 1.4 Discrete Mathematics <br> 1.5 Optimization Techniques |
-| 💻 **2. Programming**               | 2.1 Python (Basic, OOP) <br> 2.2 Logging & Debugging <br> 2.3 Virtual Environments (venv, conda) <br> 2.4 Unit Testing (pytest) <br> 2.5 Git & GitHub <br> 2.6 CLI & Shell Scripting (bash, zsh) <br> 2.7 Jupyter Notebooks <br> 2.8 Data Structures & Algorithms |
-| 📊 **3. Data Science**               | Push myself to learn everything              |
-| 🤖 **4. Machine Learning**           |  Push myself to learn everything            |
-| 🧬 **5. Deep Learning**              |  Push myself to learn everything            |
-| 📚 **6. Natural Language Processing**| Push myself to learn everything            |
-| 🖼️ **7. Computer Vision**           | Push myself to learn everything                            |
-| 🧠 **8. Artificial Intelligence**    | Search, Reasoning, Intelligent Agents, Generative AI                            |
-| 🗃️ **9. Databases**                | PostgreSQL, MongoDB, SQLAlchemy                                                       |
-| 📦 **10. Big Data & Distributed**   | Push myself to learn everything                                     |
-| 🧠 **11. LLMs**                      | Push myself to learn everything        |
-| ⚙️ **12. MLOps**                    | Push myself to learn everything                           |
-| ☁️ **13. Cloud & Deployment**       | Push myself to learn everything                                     |
-| 🌐 **14. Web Dev (Frontend)**       | HTML5, Tailwind CSS, JavaScript                                         |
-| 🔧 **15. Web Dev (Backend)**        | Django + Django REST Framework (DRF)<br> DRF for REST / Optional: Graphene-Django for GraphQL<br> OAuth2 with Django OAuth Toolkit <br>DRF Spectacular                               |
-| 🛠 **16. Advanced Practices**        | Feature Stores, Real-Time Inference, Secure ML Systems                          |
-| 🔐 **17. Responsible AI**           | Bias Detection, SHAP, LIME, Privacy, Compliance (GDPR, HIPAA)                   |
-| 🔐 **18. AI Ethics**                | Push myself to learn everything     |
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [linkedin.com/in/dev16821](https://www.linkedin.com/in/dev16821)
+- 💼 LinkedIn: [linkedin.com/in/dev16821](https://www.linkedin.com/in/v-deviprasad-reddy-b0b6a32b2/)
 - 📧 Email: vicky168218@gmail.com
 
 ---
