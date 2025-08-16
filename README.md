@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dev</h1>
-<h3 align="center">AI/ML Engineer in the Making | Voice Assistant Builder | Frontend Developer</h3>
+<h2 align="left"> Artificial Intelligence & machine learning | Robotics | Advanced humanoid robotics </h2>
 
 ---
 
