@@ -4,10 +4,10 @@ I'm a purpose‑driven engineer focused on mastering full‑stack AI/ML and adva
 
 ## 🔧 Skills & Interests
 
-- **Programming languages:** Python, C++, JavaScript
+- **Programming languages:** Python, C++
 - **Frameworks & libraries:** PyTorch, TensorFlow, scikit‑learn, OpenCV, ROS
 - **Domains:** machine learning, deep learning, computer vision, reinforcement learning, control systems, robotics hardware
-- **Full‑stack:** backend (FastAPI, Flask), frontend (React, Next.js), cloud (AWS, GCP)
+- **Full‑stack:** backend (Flask).
 - **Robotics:** kinematics, dynamics, simulation (Gazebo, PyBullet), SLAM, path planning
 
 ## 👨‍💻 Projects
@@ -23,8 +23,8 @@ I'm a purpose‑driven engineer focused on mastering full‑stack AI/ML and adva
 
 ## 🌐 Connect With Me
 
-- **LinkedIn:** [v‑deviprasad‑reddy](https://www.linkedin.com/in/v-deviprasad-reddy-b0b6a32b2)
-- **Instagram:** [vicky168218](https://www.instagram.com/vicky168218/)
+- **LinkedIn:** [v‑deviprasad‑reddy](https://www.linkedin.com/in/v-deviprasad-reddy)
+- **Instagram:** [vicky168218](https://www.instagram.com/vicky_168218/)
 - **GitHub:** [Dev16821](https://github.com/Dev16821)
 
 Thanks for stopping by! 🚀
