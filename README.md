@@ -1,30 +1,39 @@
-# Hi, I'm V Deviprasad Reddy 👋
+<!-- ===================== -->
+<!--  PROFILE HEADER -->
+<!-- ===================== -->
 
-I'm a purpose‑driven engineer focused on mastering full‑stack AI/ML and advanced humanoid robotics at a TANGO‑level standard (TESLA, APPLE, NVIDIA, GOOGLE, OPENAI). I operate with deep curiosity and a systems‑engineering mindset – always questioning, challenging and refining ideas to build stronger frameworks.
+<h1 align="center">Deviprasad Reddy</h1>
+<h3 align="center">Full Stack AI/ML • MLOps • Robotics (Systems-Oriented Engineer)</h3>
 
-## 🔧 Skills & Interests
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%7C%20Robotics-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mindset-Systems%20Engineering-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Standard-TANGO%20Level-red?style=for-the-badge" />
+</p>
 
-- **Programming languages:** Python, C++
-- **Frameworks & libraries:** PyTorch, TensorFlow, scikit‑learn, OpenCV, ROS
-- **Domains:** machine learning, deep learning, computer vision, reinforcement learning, control systems, robotics hardware
-- **Full‑stack:** backend (Flask).
-- **Robotics:** kinematics, dynamics, simulation (Gazebo, PyBullet), SLAM, path planning
+<p align="center">
+  <b>Long-term trajectory:</b> To be able to build the model from scratch
+</p>
 
-## 👨‍💻 Projects
+---
 
-- **Linear Regression in Python & C++** – Implemented linear regression from scratch in both Python and C++ with a food‑delivery time prediction dataset: [Dev16821/Linear‑Regression‑in‑python‑And‑Cpp](https://github.com/Dev16821/Linear-Regression-in-python-And-Cpp)
-- **More coming soon** – I'm currently building end‑to‑end AI/ML systems and experimenting with autonomous robotics. Stay tuned!
+## 🧠 Who I Am
 
-## 🎮 What I'm Working On
+I’m a purpose-driven engineer building **deep technical foundations** in  
+**Machine Learning, DevOps/MLOps, and Robotics software**.
 
-- Expanding my expertise in full‑stack AI/ML development
-- Designing and simulating humanoid robot controllers
-- Exploring advanced reinforcement learning for robotics
+I don’t chase hype.  
+I build **systems**, understand **first principles**, and ship **working code**.
 
-## 🌐 Connect With Me
+> Fundamentals → Systems → Scale
 
-- **LinkedIn:** [v‑deviprasad‑reddy](https://www.linkedin.com/in/v-deviprasad-reddy)
-- **Instagram:** [vicky168218](https://www.instagram.com/vicky_168218/)
-- **GitHub:** [Dev16821](https://github.com/Dev16821)
+---
 
-Thanks for stopping by! 🚀
+## 🎯 2026 Execution Focus
+
+```text
+ML Foundations        █████████░░░ 80%
+Python Engineering    ██████████░░ 85%
+DevOps / CI-CD        ███████░░░░░ 60%
+MLOps                 █████░░░░░░ 40%
+Robotics Software     ████░░░░░░░  30%
